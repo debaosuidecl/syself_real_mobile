@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>192323645584-vjc4kn3qfg82pjmbbfe39qr3912fi2bs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.192323645584-vjc4kn3qfg82pjmbbfe39qr3912fi2bs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>192323645584-tuhmgu0irlr6dbr011fo54f2u955aau1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCBN3q8YuC0go-aIiZaurjtP_F-2_u0qg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>192323645584</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.syselfTry</string>
+	<key>PROJECT_ID</key>
+	<string>syself-63736</string>
+	<key>STORAGE_BUCKET</key>
+	<string>syself-63736.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:192323645584:ios:cd881aa2f61ab132a5a815</string>
+	<key>DATABASE_URL</key>
+	<string>https://syself-63736.firebaseio.com</string>
+</dict>
+</plist>
